@@ -1,9 +1,6 @@
 ## Rodrigo Oliveira 👋
 
-Profissional de TI, Ensino médio concluído , técnico em redes de computadores,  iniciando na areá de Front-end.
-Busco sempre está me aprimorando e buscando conhecimento na areá.
-
- "nos somos,  cada um de nos, um pequeno universo"
+Iniciando na areá de Front-end.
 
 **Apaixonado por tecnologia e eterno aprendiz.**   🔭 🌎  🚀
 
