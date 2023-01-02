@@ -1,6 +1,6 @@
 ## Rodrigo Oliveira 👋
 
-Iniciando na areá de Front-end.
+ Front-end estudando
 
 **Apaixonado por tecnologia e eterno aprendiz.**   🔭 🌎  🚀
 
