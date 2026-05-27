@@ -1,37 +1,93 @@
 # Olá, eu sou o Rodrigo Oliveira 👋
 
-Estudando desenvolvimento **Front-end e Back-end**, sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e construir soluções completas.
+### Desenvolvedor em formação | Front-end | Back-end | Python | JavaScript
 
-**Apaixonado por tecnologia e eterno aprendiz.** Minha jornada no mundo da programação é impulsionada pela curiosidade e pelo desejo de criar soluções inovadoras e impactantes. 🔭 🌎 🚀
+Sou estudante de desenvolvimento **Front-end** e **Back-end**, apaixonado por tecnologia, programação e aprendizado contínuo.
 
-## Conecte-se Comigo
+Gosto de transformar ideias em projetos reais, criar soluções funcionais e evoluir constantemente por meio da prática, estudo e desenvolvimento de novos desafios. 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Oliveira-0045f5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-oliveira-seven/)](https://www.linkedin.com/in/rodrigo-oliveira-seven/)
+---
 
-## O que estou estudando e explorando:
+## Sobre mim
 
-Minha paixão por tecnologia me leva a explorar diversas áreas do desenvolvimento:
+- Estudando desenvolvimento web e programação.
+- Explorando tecnologias de Front-end e Back-end.
+- Desenvolvendo projetos para aprimorar minhas habilidades.
+- Interessado em automação, APIs, dados e aplicações web.
+- Sempre em busca de novos desafios e aprendizados.
 
--   **Desenvolvimento Web Front-end:**
-    -   **HTML5 & CSS3:** Construindo interfaces web semânticas, acessíveis e responsivas.
-    -   **JavaScript:** Adicionando interatividade e dinamismo às aplicações, com foco em performance e usabilidade.
-    -   **Frameworks e Bibliotecas:** Atualmente explorando e aprofundando conhecimentos em **React** 
--   **Desenvolvimento Back-end:**
-    -   **Python:** Utilizando Python para construir APIs robustas, scripts de automação e soluções de processamento de dados.
-    -   **Frameworks Back-end:** Buscando aprender e aplicar frameworks como Flask e Django 
+---
 
--   **Boas Práticas de Código:** Foco constante em código limpo, modular, testável e de fácil manutenção, seguindo padrões da indústria.
+## Tecnologias que estou estudando
 
-## Meus Projetos
+<div style="display: inline_block"><br>
 
-Confira alguns dos meus projetos para ver minhas habilidades em ação e acompanhar minha evolução como desenvolvedor. Cada projeto é uma oportunidade de aplicar novos conhecimentos e resolver problemas reais.
+<img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+</div>
+
+---
+
+## Áreas de estudo
+
+### Front-end
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Interfaces responsivas
+- Componentização
+- Experiência do usuário
+
+### Back-end
+
+- Python
+- Flask
+- Django
+- APIs REST
+- Automação
+- Processamento de dados
+
+### Boas práticas
+
+- Código limpo
+- Organização de projetos
+- Git e GitHub
+- Estrutura modular
+- Manutenção e escalabilidade
+
+---
+
+## Projetos
+
+Meus repositórios representam minha evolução como desenvolvedor.
+
+Aqui compartilho projetos de estudo, testes, aplicações práticas e soluções criadas para reforçar meus conhecimentos em programação.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-de7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-de7&layout=compact&theme=tokyonight)
+
+</div>
+
+---
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato para discutir projetos, oportunidades de colaboração ou apenas para trocar ideias sobre tecnologia!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-oliveira-seven/)
 
+---
 
---- 
-
-*"A tecnologia move o mundo, e eu adoro fazer parte dessa mudança, construindo o futuro linha por linha de código."*
-
+> "A tecnologia move o mundo, e eu quero fazer parte dessa transformação, construindo o futuro linha por linha de código."
