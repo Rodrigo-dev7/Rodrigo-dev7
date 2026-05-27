@@ -15,17 +15,16 @@ Minha paixão por tecnologia me leva a explorar diversas áreas do desenvolvimen
 -   **Desenvolvimento Web Front-end:**
     -   **HTML5 & CSS3:** Construindo interfaces web semânticas, acessíveis e responsivas.
     -   **JavaScript:** Adicionando interatividade e dinamismo às aplicações, com foco em performance e usabilidade.
-    -   **Frameworks e Bibliotecas:** Atualmente explorando e aprofundando conhecimentos em **React** (ou adicione aqui o que você estiver estudando, ex: Vue.js, Angular).
-
+    -   **Frameworks e Bibliotecas:** Atualmente explorando e aprofundando conhecimentos em **React** 
 -   **Desenvolvimento Back-end:**
     -   **Python:** Utilizando Python para construir APIs robustas, scripts de automação e soluções de processamento de dados.
-    -   **Frameworks Back-end:** Buscando aprender e aplicar frameworks como Flask ou Django (adicione aqui o que você estiver estudando).
+    -   **Frameworks Back-end:** Buscando aprender e aplicar frameworks como Flask e Django 
 
 -   **Boas Práticas de Código:** Foco constante em código limpo, modular, testável e de fácil manutenção, seguindo padrões da indústria.
 
 ## Meus Projetos
 
-Confira alguns dos meus projetos e contribuições no GitHub para ver minhas habilidades em ação e acompanhar minha evolução como desenvolvedor. Cada projeto é uma oportunidade de aplicar novos conhecimentos e resolver problemas reais.
+Confira alguns dos meus projetos para ver minhas habilidades em ação e acompanhar minha evolução como desenvolvedor. Cada projeto é uma oportunidade de aplicar novos conhecimentos e resolver problemas reais.
 
 ## Contato
 
