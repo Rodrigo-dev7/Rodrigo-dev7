@@ -76,9 +76,15 @@ Aqui compartilho projetos de estudo, testes, aplicações práticas e soluções
 
 <div align="center">
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-de7&show_icons=true&theme=tokyonight)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=Rodrigo-dev7&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=86400"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-de7&layout=compact&theme=tokyonight)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-dev7&layout=compact&theme=transparent&cache_seconds=86400"
+/>
 
 </div>
 
