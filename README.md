@@ -1,4 +1,4 @@
-# Olá, eu sou o Rodrigo Oliveira 👋
+# Olá, eu sou o Rodrigo Oliveira
 
 ### Desenvolvedor em formação | Front-end | Back-end | Python | JavaScript
 
